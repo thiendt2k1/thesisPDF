@@ -58,3 +58,4 @@ This template is released under the Apache License. See the [LICENSE](./LICENSE)
 - (3) https://github.com/QQKdeGit/bupt-typst
 - (4) https://github.com/shuosc/SHU-Bachelor-Thesis-Typst
 - (5) **https://github.com/linhduongtuan/DTU-Thesis-template**
+"# thesisPDF" 
