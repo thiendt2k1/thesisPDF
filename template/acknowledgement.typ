@@ -11,7 +11,7 @@
   par(leading: 1.5em)[#text(size:0.0em)[#h(0.0em)]]
 }
 
-#heading(level: 1)[ACKNOWLEDGEMENT ~ LỜI CẢM ƠN]
+#heading(level: 1)[ACKNOWLEDGEMENT]
 #v(1em)
 
 // Format paragraphs

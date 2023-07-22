@@ -20,13 +20,13 @@
 
 #figure(
   table(
-     columns: (auto, auto, auto),
-     [Chữ viết tắt], [Tiếng Anh], [Tiếng Việt], 
-     [DNA], [Deoxy Nucleotide Acid], [Acid Deoxy Nucleotide], 
-     [PCR], [Polymerase Chain Reaction], [Phản ứng chuỗi trùng hợp], 
-     [AI], [Artificial Intelligence], [Trí tuệ nhân tạo],
-     [SNP], [Single nucleotide polymorphism], [Tính đa hình nucleotide đơn], 
-     [ML], [Machine Learning], [Học Máy]
+     columns: (auto, auto),
+     [Chữ viết tắt], [Tiếng Anh], 
+     [DNA], [Deoxy Nucleotide Acid], 
+     [PCR], [Polymerase Chain Reaction],
+     [AI], [Artificial Intelligence], 
+     [SNP], [Single nucleotide polymorphism],
+     [ML], [Machine Learning]
   ),
   //caption: [ABBREVIATIONS],
 )
@@ -124,17 +124,15 @@
   set text(font: arial, size: font_size.footnotesize)
   set par(first-line-indent: 0pt)
 
-  [TÓM TẮT ] + [.] * 135 + [ I]
+  [ABSTRACT ] + [.] * 133 + [ I]
   set par(leading: 1em)
-  [ABSTRACT ] + [.] * 132 + [ II]
+  [ABBREVIATIONS ] + [.] * 122 + [ II]
   set par(leading: 1em)
-  [ABBREVIATIONS ] + [.] * 121 + [ III]
+  [LIST OF FIGURES ] + [.] * 121 + [ III]
   set par(leading: 1em)
-  [LIST OF FIGURES ] + [.] * 120 + [ IV]
+  [LIST OF TABLES ] + [.] * 122 + [ IV]
   set par(leading: 1em)
-  [LIST OF TABLES ] + [.] * 123 + [ V]
-  set par(leading: 1em)
-  [LIST OF FORMULAS ] + [.] * 115 + [ VI]
+  [LIST OF FORMULAS ] + [.] * 117 + [ V]
   set par(leading: 1em)
   [LIST OF EQUATIONS ] + [.] * 114 + [ VI]
   set par(leading: 1em)

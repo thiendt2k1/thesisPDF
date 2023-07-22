@@ -76,9 +76,9 @@ set page(
                  columns: (1fr, auto, auto), 
                  stroke: none,
                  align: (x, y) => (left, center, right).at(x),
-              [How to use ChatGPT to improve the quality of a thesis written in English?], 
+              [Develop a web application to detect disease on coffee leaves], 
               [],
-              [Linh T. Duong]
+              [Tran D.Thien]
               )
               line(length: 100%, stroke: 0.1pt)
         }

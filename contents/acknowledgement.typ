@@ -1,13 +1,9 @@
-Khi tôi hoàn thành bài báo này, tôi muốn bày tỏ lòng biết ơn của tôi đến nhiều người.
+Firstly, I would like to thank my teaching advisor, Mr Thinh, for his invaluable advice and guidance on this article. Without his support and instructions, i couldn't have completed this paper on time and sufficient enough, he has been been very generous and patiently guide me through challenges despite my stubborn and lack of communication skill.
 
-Trước tiên, tôi xin cảm ơn cố vấn giảng dạy của tôi về những lời khuyên và hướng dẫn quý báu của anh ấy / cô ấy cho bài viết này. Tất cả sự hỗ trợ và hướng dẫn này đều rất vị tha và đã mang lại lợi ích to lớn cho tôi.
+Secondly, I also want to extend my thanks to my family and friends, especially Phong, who have always supported and encouraged me throughout this journey. They have been a constant source of inspiration, motivation and strength, and I am grateful for their presence in my life.
 
-Thứ hai, tôi cũng xin gửi lời cảm ơn đến gia đình và bạn bè, những người đã luôn ủng hộ và động viên tôi trong suốt thời gian qua. Họ không ngừng cổ vũ, động viên tôi tiếp tục tiến lên, cảm ơn vì đã luôn ở bên, cho tôi hạnh phúc và sức mạnh.
+Additionally, I want to thank my reviewers, who have listened, and given me some hard, cold facts, and point out my logic flaws and mistakes in this paper through their entire gasp of knowledge. Thanks to your support, I have been able to fill some hole in my perspective, and improve the quality of my work.
 
-Ngoài ra, em cũng xin gửi lời cảm ơn đến các bạn cùng lớp, những người đã cùng nhau trải qua một thời gian dài học tập, hỗ trợ, động viên nhau, cùng nhau tiến bộ. Vì sự hỗ trợ của bạn, tôi có thể tiếp tục phát triển và cải thiện.
+Lastly, I express my gratitude to all the authors, readers, and reviewers, as your input and evaluation have been crucial to me. They have helped me identify the shortcomings in my writing and provided insights into the direction of my research. Thank you all!
 
-Cuối cùng, tôi xin cảm ơn tất cả các tác giả, sự đón đọc và đánh giá của các bạn rất quan trọng đối với tôi, điều này cũng giúp tôi nhận ra những thiếu sót trong bài viết của mình, đồng thời hiểu rõ hơn về hướng nghiên cứu của mình. cảm ơn tất cả!
-
-Một lần nữa tôi xin gửi lời cảm ơn và lòng biết ơn đến tất cả những người đã ủng hộ và động viên tôi.
-
-Xác nhận này được tạo từ ChatGPT.
+Once again, I want to send my thanks and appreciation to all those who have supported and encouraged me.

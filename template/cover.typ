@@ -25,14 +25,14 @@
     text(
       font: arial,
       size: font_size.tiny,
-    )[MINISTRY OF EDUCATION AND TRAINING ],
+    )[MINISTRY OF EDUCATION AND TRAINING],
     [],
     [],
     [],
     text(
       font: arial,
       size: font_size.tiny,
-    )[HA NOI UNIVERSITY OF SCIENCE AND TECHNOLOGY],
+    )[VNU HCM CITY UNIVERSITY OF TECHNOLOGY],
     
   )
 #divider()
@@ -50,7 +50,7 @@
         size: font_size.large,
         weight: "bold",
         overhang: false,
-        "TÊN ĐỀ TÀI: "
+        "Capstone Project: "
       )),
     rect(
       width: 90%,
@@ -64,7 +64,7 @@
         weight: "bold",
         bottom-edge: "descender"
       )[
-        #vn_title
+        #en_title
       ]
     )
   ) 
@@ -116,10 +116,6 @@
     info_value(student_name),
     info_key("Advisor 1:"),
     info_value(college_advisor),
-    info_key("Advisor 2:"),
-    info_value(company_advisor),
-    info_key("Duration Time:"),   
-    info_value(start_and_end_date)
   )
   
   #v(70pt)
@@ -129,7 +125,7 @@
       text(
         weight: "bold",
         size: font_size.large,
-        [_Hà Nội, ngày 06 tháng 06 năm 2023_ ]
+        [Ho Chi Minh City, August 2023 ]
       )
     )
   )

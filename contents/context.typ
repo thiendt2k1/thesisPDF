@@ -128,7 +128,7 @@ def sqrt(x):
   caption: "Caption"
 )<tb1>
 
-== Giới thiệu khái quát về Typst 
+== Introduction on Leaf disease detection
 
 
 + Typst is the latest and hottest markup text language. Its positioning is similar to LaTeX. It has strong typesetting capabilities, writes documents through certain grammar, and then generates pdf files. Compared with LaTeX, it has the following advantages:

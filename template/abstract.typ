@@ -19,26 +19,6 @@
     )
 ] )
 
-#pagebreak()
-// Abstract written by Vietnamese
-  #heading(level: 1, outlined: false)[TÓM TĂT]
-  #v(2em)
-  #v(2em)
-
-  #par(
-    justify: true,
-    leading: 1.5em, 
-    first-line-indent: 2em)[#text(font: arial, size: font_size.footnotesize)[#abstract_vn]]
-  #v(2em)
-
-  #par(first-line-indent: 0em)[
-    #text(weight: "bold", font: arial, size: font_size.footnotesize)[
-      TỪ KHOÁ： ]
-    #text(font: arial, size: font_size.footnotesize)[#keywords_vn.join("；") ]
-    ]
-
-#pagebreak() 
-
 // Abstract written by English
   #heading(level: 1, outlined: false)[ABSTRACT]
   #v(2em)
